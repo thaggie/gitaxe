@@ -1,0 +1,30 @@
+{
+  "name": "gitaxe",
+  "version": "1.0.0",
+  "description": "Utility to interactively delete local git branches",
+  "main": "index.js",
+  "bin": {
+    "gitaxe": "./index.js"
+  },
+  "scripts": {
+    "test": "echo none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:thaggie/gitaxe.git"
+  },
+  "bugs": "https://github.com/thaggie/gitaxe/issues",
+  "homepage": "https://github.com/thaggie/gitaxe",
+  "keywords": [
+    "git",
+    "branch"
+  ],
+  "author": {
+    "name": "Tom Haggie",
+    "url": "https://github.com/thaggie"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^1.2.3"
+  }
+}
