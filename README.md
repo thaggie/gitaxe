@@ -16,3 +16,5 @@ This is a command line tool to make it easy to delete local branches in a git re
 * If don't check any branches `gitaxe` will just exit.
 * You will then need to confirm that you do indeed want to delete the selected branches.
 * If you say **yes** `gitaxe` will call `git branch -D <branch>` on each of the branches you selected.
+
+![gitaxe demo](./gitaxe.gif)
