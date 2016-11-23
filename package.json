@@ -1,6 +1,6 @@
 {
   "name": "gitaxe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility to interactively delete local git branches",
   "main": "index.js",
   "bin": {
